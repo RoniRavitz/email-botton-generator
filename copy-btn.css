@@ -1,0 +1,23 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.r-btn-wrap{
+    min-height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.r-controls{
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+}
